@@ -8,7 +8,7 @@ public class IndexOfElementValue {
 		int a[]= {1,2,3,4,5};
 		
 		for(int i=0;i<a.length;i++) {
-			if(a[i]==5) {
+			if(a[i]==3) {
 				System.out.println("Index of element is "+i);
 			}
 		}

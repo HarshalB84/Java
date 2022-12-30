@@ -35,4 +35,6 @@ public class StudentGetter {
 		return id+" "+name+" "+dept+" "+marks;
 	}
 	
+	
+	
 }

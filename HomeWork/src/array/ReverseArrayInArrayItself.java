@@ -17,8 +17,8 @@ public class ReverseArrayInArrayItself {
 			arr[i]=arr[n-i-1];
 			arr[n-i-1]=temp;
 		}
-		
 		System.out.println(Arrays.toString(arr));
-	}
 
+	
+	}
 }

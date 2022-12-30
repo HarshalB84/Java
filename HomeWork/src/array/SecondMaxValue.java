@@ -18,6 +18,7 @@ public class SecondMaxValue {
 				}
 			}
 		}
+		
 		System.out.println(Arrays.toString(a));
 		System.out.println(a[a.length-2]);
 

@@ -10,7 +10,7 @@ public class AverageOfArray {
 		
 		for(int i=0;i<a.length;i++) {
 			total=total+a[i];
-			average=total/10;
+			average=total/a.length;
 		}
 		System.out.println(average);
 		

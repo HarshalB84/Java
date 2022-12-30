@@ -4,6 +4,7 @@ public class Department {
 
 	private int id,empNo;
 	private String name;
+	
 	public int getId() {
 		return id;
 	}

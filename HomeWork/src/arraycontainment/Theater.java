@@ -7,6 +7,7 @@ public class Theater {
 	int id;
 	String name;
 	Movie movie[];
+	
 	public int getId() {
 		return id;
 	}

@@ -20,8 +20,8 @@ public class CompanyDepartmentMain {
 		
 		Company c1 = new Company(101,"Infosys",dep);
 		System.out.println(c1);
-		
 		*/
+		
 		for(int i=0;i<comp.length;i++) {
 			Department dep[] = new Department[3];
 			System.out.println("Enter the company id,name : ");
@@ -44,12 +44,6 @@ public class CompanyDepartmentMain {
 		for(Company c : comp) {
 			System.out.println(c);
 		}
-		
-		
-		
-		
-		
-		
 		
 		sc.close();
 	}

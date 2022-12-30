@@ -3,14 +3,14 @@ package constructors;
 public class StaticBlocks {
 	static int a=50;
 	int b=40;
-  static 
+	static 
   {
 	  System.out.println("Enter all the details of the Employees ");
   }
   
   static 
   {
-	  System.out.println("importnt :-imformation will be kept private ");
+	  System.out.println("important :-information will be kept private ");
 	 
 	  StaticBlocks s1=new StaticBlocks();
 	  System.out.println(s1.b);

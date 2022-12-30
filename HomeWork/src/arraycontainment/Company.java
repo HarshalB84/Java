@@ -7,6 +7,7 @@ public class Company {
 	private int id;
 	private String name;
 	private Department dept[];
+	
 	public int getId() {
 		return id;
 	}
